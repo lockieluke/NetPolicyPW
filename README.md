@@ -21,5 +21,6 @@ cmake --build . --config Release
 4. Open a new tab and visit [chrome://policy](chrome://policy)
 5. Click **Reload policies**
 6. Go back to [chrome://net-export](chrome://net-export) and click **Stop logging**
+7. Run `./NetPolicyPW [full path to log file]`
 
 Credit: [https://luphoria.com/netlog-policy-password-tool](https://luphoria.com/netlog-policy-password-tool)
